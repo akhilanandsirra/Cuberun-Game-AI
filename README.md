@@ -6,3 +6,7 @@ The player controls a cube that is trying to avoid collision with other obstacle
 In this project, AI will be demonstrated to teaching a game object on how to play the game using NavMesh in Unity. The game object will be able to clear the game using AI with precision.
 
 ![Cuberun](https://i.imgur.com/VQQU9Dl.gif)
+The above is the demostration of human play.
+
+![AI Cuberun](https://i.imgur.com/VfvSuIM.gif)
+The above is the demonstration of AI play.
