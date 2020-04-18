@@ -5,4 +5,4 @@ The player controls a cube that is trying to avoid collision with other obstacle
 
 In this project, AI will be demonstrated to teaching a game object on how to play the game using NavMesh in Unity. The game object will be able to clear the game using AI with precision.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://gfycat.com/regaldentalflyinglemur)
